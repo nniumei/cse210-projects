@@ -57,7 +57,7 @@ class Program
             Console.WriteLine("That's it!");
             Console.WriteLine("That's the number!");
 
-            // Display all guesses
+            // Display all the guesses
             Console.WriteLine("You guessed these numbers before you got it right:");
             foreach (int g in guesses)
             {
