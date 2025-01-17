@@ -22,7 +22,7 @@ partial class Program
             }
             else
             {
-                Console.WriteLine("Please enter a valid number.");
+                Console.WriteLine("Please enter a valid number, that's not a number that you gave me.");
             }
         }
 
@@ -40,7 +40,7 @@ partial class Program
         }
         else
         {
-            Console.WriteLine("No numbers entered. Cannot compute the average.");
+            Console.WriteLine("No numbers entered. I can't compute the average.");
         }
 
         int max = numbers.Count > 0 ? numbers[0] : 0; 
@@ -68,7 +68,7 @@ partial class Program
         }
         else
         {
-            Console.WriteLine("There are no positive numbers in the list.");
+            Console.WriteLine("There's no positive numbers in the list.");
         }
 
         numbers.Sort(); 
