@@ -1,6 +1,7 @@
 # cse210-student-template
 This is for students in CSE 210.
-And it took waaaaaaaay longer to figure this out than it should have. 
+And it took waaaaaaaay longer to figure this out than it should have.
+It was pretty funny.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
