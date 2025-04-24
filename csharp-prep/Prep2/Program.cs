@@ -36,7 +36,7 @@ class Program
         }
         else if (percentage >= 60)
         {
-            Console.WriteLine("It's not close enough, you just lost out on those credits.");
+            Console.WriteLine("It's not close enough. You just lost out on those credits, silly.");
         }
         else
         {
