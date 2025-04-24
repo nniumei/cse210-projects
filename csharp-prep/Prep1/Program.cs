@@ -13,7 +13,7 @@ class Program
         Console.Write($"Hello, {firstName} {lastName}! How are you today? ");
         string response = Console.ReadLine();
 
-        Console.WriteLine($"You said that {response}. You know I'm just a computer program, right? I have no time for menial small talk.");
+        Console.WriteLine($"You said that {response}. You know I'm just a computer program, right? I have no time for menial small talk. I'm not your therapist.");
 
     }
 }
